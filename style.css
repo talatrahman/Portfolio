@@ -79,6 +79,9 @@ a:hover {
 }
 .banner-wrapper h1 span {
     color: var(--red);
+    font-size: 52px;
+    line-height: 52px;
+    
 }
 .banner-wrapper .name-sec {
     margin-top: 4%;
