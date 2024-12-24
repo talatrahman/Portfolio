@@ -56,6 +56,7 @@ a:hover {
 }
 .img-property {
     border-radius: 50%;
+    background: white;
 }
 .banner-wrapper h5 {
     font-weight: 500;
